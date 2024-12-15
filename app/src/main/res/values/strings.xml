@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="UserName" translatable="true">Email or Phone Number</string>
+    <string name="Password" translatable="true">Password</string>
+    <string name="Login">Log In</string>
+    <string name="helpcenter">Help Center</string>
+    <string name="signupforfacebook">Sign Up for Facbook</string>
+</resources>
